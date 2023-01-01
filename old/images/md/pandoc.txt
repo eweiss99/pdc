@@ -1,0 +1,2 @@
+
+pandoc -f markdown -t html header.md x.md footer.md -o x.html
